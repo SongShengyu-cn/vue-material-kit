@@ -61,7 +61,7 @@ Let us know your thoughts below. And good luck with development!
 
 ## Versions
 
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk)
+[`<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />`](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk)
 
 | VueJS |
 | ----- |
@@ -187,21 +187,18 @@ If you have questions or need help integrating the product please [contact us](h
 ## Useful Links
 
 - [More products](https://www.creative-tim.com/templates?ref=readme-vmk) from Creative Tim
-
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-
 - [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-vmk) from Creative Tim
-
 - [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-vmk) (earn money)
 
 ##### Social Media
 
-Twitter: <https://twitter.com/CreativeTim>
+Twitter: [https://twitter.com/CreativeTim](https://twitter.com/CreativeTim)
 
-Facebook: <https://www.facebook.com/CreativeTim>
+Facebook: [https://www.facebook.com/CreativeTim](https://www.facebook.com/CreativeTim)
 
-Dribbble: <https://dribbble.com/creativetim>
+Dribbble: [https://dribbble.com/creativetim](https://dribbble.com/creativetim)
 
-Google+: <https://plus.google.com/+CreativetimPage>
+Google+: [https://plus.google.com/+CreativetimPage](https://plus.google.com/+CreativetimPage)
 
-Instagram: <https://instagram.com/creativetimofficial>
+Instagram: [https://instagram.com/creativetimofficial](https://instagram.com/creativetimofficial)

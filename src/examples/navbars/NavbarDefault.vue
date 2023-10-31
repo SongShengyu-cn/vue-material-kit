@@ -119,8 +119,15 @@ watch(
         rel="tooltip"
         title="Designed and Coded by Creative Tim"
         data-placement="bottom"
+        style="font-size: 18px;"
       >
-        Material Kit 2
+        <!-- Material Kit 2 -->
+        <i
+                class="material-icons opacity-6 me-2 text-md"
+                 style="position: relative; top: 1.8px;"
+                >dashboard</i
+              >
+        这是一段文字。
       </RouterLink>
       <RouterLink
         class="navbar-brand d-block d-md-none"
